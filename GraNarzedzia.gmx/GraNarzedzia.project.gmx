@@ -22,6 +22,8 @@
     </sprites>
     <sprite>sprites\spr_Collision</sprite>
     <sprite>sprites\spr_Column</sprite>
+    <sprite>sprites\spr_Ghost</sprite>
+    <sprite>sprites\spr_test</sprite>
     <sprite>sprites\spr_Collision_Off</sprite>
     <sprite>sprites\spr_Teleport</sprite>
   </sprites>
@@ -34,6 +36,8 @@
   </scripts>
   <objects name="objects">
     <object>objects\obj_Player</object>
+    <object>objects\obj_Ghost</object>
+    <object>objects\obj_minion</object>
     <object>objects\obj_Collision</object>
     <object>objects\ocj_Column</object>
     <object>objects\obj_Teleport</object>

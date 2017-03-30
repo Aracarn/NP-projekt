@@ -89,6 +89,12 @@
     <instance objName="ocj_Column" x="192" y="352" name="inst_529006AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ocj_Column" x="192" y="352" name="inst_067764F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Teleport" x="320" y="352" name="inst_6F5EDE4E" locked="0" code="Player_x=113;&#xA;Player_y=112;&#xA;Warp_Room=rm_Teleport;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Ghost" x="512" y="320" name="inst_68688A2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Ghost" x="448" y="128" name="inst_32F41C75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minion" x="64" y="64" name="inst_1D78F18A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minion" x="704" y="384" name="inst_8A46F1E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minion" x="448" y="608" name="inst_6BE14DB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_minion" x="864" y="576" name="inst_DE446FB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bg_allinone" x="832" y="96" w="96" h="96" xo="512" yo="832" id="10000198" name="inst_739FC2F0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
